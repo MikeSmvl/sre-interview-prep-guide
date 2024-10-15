@@ -240,7 +240,7 @@ Contributions are always welcome!
 
 ### SRE interview process
 
-- [ ] [How to hire talent](https://syedali.net/2014/04/01/how-to-hire-talent)
+- [x] [How to hire talent](https://syedali.net/2014/04/01/how-to-hire-talent)
 - [ ] [Recruitment process for a Google job (SRE, Site Reliability Engineer)](https://web.archive.org/web/20220328124724/http://lambda-startup.com/recruitment-process-for-a-google-job-sre-site-reliability-engineer)
 
 ### Interview Questions
