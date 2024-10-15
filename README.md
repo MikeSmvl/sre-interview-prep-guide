@@ -9,8 +9,8 @@ Contributions are always welcome!
 
 ## Basics
 
-- [ ] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
-- [ ] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
+- [x] Simple: [What happens when you type in ‘www.cnn.com’ in your browser?](https://syedali.net/2013/08/18/what-happens-when-you-type-in-www-cnn-com-in-your-browser)
+- [x] Detailed: [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when)
 
 ## Linux
 
@@ -63,7 +63,7 @@ Contributions are always welcome!
 
 ## Networking
 
-- [ ] [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
+- [x] [The Internet explained from first principles](https://explained-from-first-principles.com/internet)
 - [ ] [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 - [ ] [Introduction to Linux interfaces for virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking)
 - [ ] [Multi-tier load-balancing with Linux](https://vincent.bernat.ch/en/blog/2018-multi-tier-loadbalancer)
