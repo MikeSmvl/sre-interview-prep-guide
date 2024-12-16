@@ -178,7 +178,7 @@ Contributions are always welcome!
 - [ ] [What's in a Production Web Application?](https://web.archive.org/web/20210106095747/http://stephenmann.io/post/whats-in-a-production-web-application)
 - [ ] [Distributed systems](http://book.mixu.net/distsys/single-page.html)
 - [ ] [Failover](https://blog.alexewerlof.com/p/failover)
-- [ ] [Monoliths, Service Architecture, and Microservices](https://architecturenotes.co/granularity-of-systems)
+- [x] [Monoliths, Service Architecture, and Microservices](https://architecturenotes.co/granularity-of-systems)
 - [x] [Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 
 ### System design examples
